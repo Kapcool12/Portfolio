@@ -198,7 +198,7 @@ export const projects = [
       },
       {
         name: "Akash Tiwari",
-        //img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+        img: "https://user-images.githubusercontent.com/94378669/271788159-61706e26-7532-4960-8360-5ddaed5f41c8.png",
         //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
         //github: "https://github.com/upasana0710",
       }
@@ -228,30 +228,17 @@ export const projects = [
   
   {
     id: 2,
-    title: "Brain Tumor Detection",
+    title: "Encoder-Decoder",
     date: "Jan 2023 - Mar 2023",
     description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
+      "Its a Web based Encoder and Decoder used to Encode Message and use Private key to Decript it, It is inspired by Ceaser Cipher Aplgorithm",
     image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
+      "https://user-images.githubusercontent.com/94378669/271787400-5e416a57-5fd9-455d-bd5f-15bd5b0e41ac.png",
+    tags: ["HTML", "CSS", "JavaScript", "Crptography"],
+    category: "web app",
+    github: "https://github.com/Kapcool12/Encoder-Decoder.git",
+    webapp: "https://kapcool12.github.io/Encoder-Decoder/",
+    
   },
   /*
   {
