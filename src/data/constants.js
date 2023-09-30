@@ -225,7 +225,7 @@ export const projects = [
     //github: "https://github.com/rishavchanda/Project-Management-App",
     //webapp: "https://vexa-app.netlify.app/",
   },
-  
+  /*
   {
     id: 2,
     title: "Encoder-decoder",
@@ -240,7 +240,7 @@ export const projects = [
     webapp: "https://kapcool12.github.io/Encoder-Decoder/",
     
   },
-  /*
+  
   {
     id: 3,
     title: "Buckoid",
