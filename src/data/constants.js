@@ -228,7 +228,7 @@ export const projects = [
   
   {
     id: 2,
-    title: "Encoder-Decoder",
+    title: "Encoder-decoder",
     date: "Jan 2023 - Mar 2023",
     description:
       "Its a Web based Encoder and Decoder used to Encode Message and use Private key to Decript it, It is inspired by Ceaser Cipher Aplgorithm",
