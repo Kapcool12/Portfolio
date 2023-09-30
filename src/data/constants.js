@@ -155,7 +155,7 @@ export const projects = [
     description:
       "In a world where every act of kindness matters, Helping-Hands emerges as a beacon of hope and efficiency. Helping-Hands is a comprehensive Donation Management System meticulously crafted to cater to the needs of non-governmental organizations (NGOs), donors, and volunteers. It's more than just a platform; it's a digital bridge that connects hearts and resources, streamlining the process of giving and making a tangible impact on communities in need.",
     image:
-      "https://private-user-images.githubusercontent.com/94378669/239760373-3cc98e92-7d52-4915-ab87-402781a60e0e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTYwMTA4NTYsIm5iZiI6MTY5NjAxMDU1NiwicGF0aCI6Ii85NDM3ODY2OS8yMzk3NjAzNzMtM2NjOThlOTItN2Q1Mi00OTE1LWFiODctNDAyNzgxYTYwZTBlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzA5MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMwOTI5VDE4MDIzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY2MzQ3MzcwMmJmYjI2OGNlYWNlODVlNGU0YzdkMzY2YTczMmQyMmM2YjIzMjhkMzg0ZGJmNGRmMzgwZmNmY2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gEuWK2PRJK-LJunlW2PpMP0GbmBDWx6jwRb7qLb6wXg",
+      "https://user-images.githubusercontent.com/94378669/271758131-1ee9196f-b5b9-42f1-91f8-e36fe46e7e02.png",
     tags: [
       "HTML",
       "CSS",
