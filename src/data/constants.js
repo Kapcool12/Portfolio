@@ -225,7 +225,7 @@ export const projects = [
     //github: "https://github.com/rishavchanda/Project-Management-App",
     //webapp: "https://vexa-app.netlify.app/",
   },
-  /*
+  
   {
     id: 2,
     title: "Brain Tumor Detection",
@@ -253,6 +253,7 @@ export const projects = [
       },
     ],
   },
+  /*
   {
     id: 3,
     title: "Buckoid",
