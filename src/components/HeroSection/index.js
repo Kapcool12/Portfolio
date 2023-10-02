@@ -5,7 +5,36 @@ import HeroImg from '../../images/HeroImage.jpg'
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
 
+
 const HeroSection = () => {
+    const imgStyle = {
+        transition: 'transform 0.5s',
+      };
+    
+      const handleMouseEnter = () => {
+        // Apply scale-up effect on hover
+        imgRef.current.style.transform = 'scale(1.05)';
+      };
+    
+      const handleMouseLeave = () => {
+        // Reset the transform on mouse leave
+        imgRef.current.style.transform = 'scale(1)';
+      };
+    
+      const imgRef = React.createRef();
+
+
+
+
+
+
+
+
+
+
+
+
+
     return (
         <div id="about">
             <HeroContainer>
@@ -32,9 +61,15 @@ const HeroSection = () => {
                     </HeroLeftContainer>
 
                     <HeroRightContainer id="Right">
-
-                        <Img src={HeroImg} alt="hero-image" />
-                    </HeroRightContainer>
+            <Img
+              src={HeroImg}
+              alt="hero-image"
+              style={imgStyle}
+              onMouseEnter={handleMouseEnter}
+              onMouseLeave={handleMouseLeave}
+              ref={imgRef}
+            />
+          </HeroRightContainer>
                 </HeroInnerContainer>
 
             </HeroContainer>

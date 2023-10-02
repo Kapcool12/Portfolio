@@ -6,12 +6,13 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I'm an enthusiastic and adaptable person, always up for new challenges. I thrive on learning and strive for excellence. With a positive outlook and a commitment to growth, I'm eager to make a valuable impact and achieve success.",
   github: "https://github.com/Kapcool12",
   resume:
     "https://drive.google.com/file/d/1QIwZT8MNsExPglrRtSdDOESct0mdpX7z/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/kapcool05/",
   twitter: "https://twitter.com/kapilyadav6",
+  Email : "mailto:kapily2004@yahoo.com",
   //insta: "https://www.instagram.com/rishav_chanda/",
   //facebook: "https://www.facebook.com/rishav.chanda.165/",
 };
@@ -83,7 +84,35 @@ export const skills = [
     
     ],
   },
-  
+  {
+    title: "Blockchain",
+    skills: [
+      {
+        name: "Truffle",
+        image:
+          "https://moonbeam.network/wp-content/uploads/2020/12/truffle-500.png",
+      },
+      {
+        name: "Solidity",
+        image:
+          "https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg",
+      },
+     
+     
+      {
+        name: "Ganache",
+        image:
+          "https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png",
+      },
+      
+      {
+        name: "MetaMask",
+        image:
+          "https://th.bing.com/th/id/OIP.W_BPf4NuvxKCKjMI9buHIgHaEK?pid=ImgDet&rs=1",
+      },
+     
+    ],
+  },
   {
     title: "Others",
     skills: [
@@ -106,9 +135,9 @@ export const skills = [
       },
       
       {
-        name: "Adobe XD",
+        name: "Excel",
         image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
+          "https://logodownload.org/wp-content/uploads/2020/04/excel-logo-1-2048x1905.png",
       },
      
     ],

@@ -106,6 +106,7 @@ export const ButtonContainer = styled.div`
   @media screen and (max-width: 768px) {
     display: none;
   }
+  
 `;
 
 

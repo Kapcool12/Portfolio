@@ -42,6 +42,14 @@ export const HeroBg = styled.div`
   }
 `;
 
+
+
+
+
+
+
+
+
 export const HeroInnerContainer = styled.div`
   position: relative;
   display: flex;
