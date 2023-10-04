@@ -118,7 +118,15 @@ const ContactButton = styled.input`
   color: ${({ theme }) => theme.text_primary};
   font-size: 18px;
   font-weight: 600;
-`
+  cursor: pointer;
+  
+  /* Add styles for the :active state (when clicked) */
+  &:active {
+    background-color: #ff5722; /* Change this to your desired color */
+    /* You can also add other styles as needed when the button is clicked */
+  }
+`;
+
 
 
 
@@ -130,8 +138,10 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    emailjs.sendForm('service_tox7kqs', 'template_nv7k7mj', form.current, 'SybVGsYS52j2TfLbi')
-      .then((result) => {
+    emailjs.sendForm('service_hnaetjp', 'template_4iwis3m', form.current, '8EhcjX9QLdXSFkpmJ')
+      .then((result) => 
+      {
+        console.log(result.txt);
         setOpen(true);
         form.current.reset();
       }, (error) => {

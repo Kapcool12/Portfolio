@@ -283,20 +283,21 @@ export const projects = [
     github: "https://github.com/Kapcool12/Deadlock-detection-distributed-Systems.git",
     //webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
   },
-  /*
+  
   {
     id: 10,
-    title: "Job Finding App",
-    date: "Jun 2023 - Jul 2023",
+    title: "Mini-Weather-App",
+    date: "Oct 2023 - Oct 2023",
     description:
-      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
+      "Mini-Weather-app created using Core JS Concepts using External API for Weather Information.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-    tags: ["React Native", "JavaScript", "Axios"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
-    webapp: "https://github.com/rishavchanda/Job-finder-App",
+      "https://user-images.githubusercontent.com/94378669/272340642-d788771e-d063-4a54-85f2-bb5960ff5b05.png",
+    tags: ["HTML", "CSS", "JavaScript"],
+    category: "web app",
+    github: "https://github.com/Kapcool12/Mini-Weather-App.git",
+    webapp: "https://kapcool12.github.io/Mini-Weather-App/",
   },
+  /*
   {
     id: 4,
     title: "Whatsapp Clone",
