@@ -1,7 +1,7 @@
 {
   "name": "rishav-chanda-portfolio",
   "version": "0.1.0",
-  "homepage": "https://Kapcool12.github.io/Portfolio",
+  "homepage": "https://kapil.tech",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
