@@ -184,7 +184,7 @@ export const projects = [
     description:
       "In a world where every act of kindness matters, Helping-Hands emerges as a beacon of hope and efficiency. Helping-Hands is a comprehensive Donation Management System meticulously crafted to cater to the needs of non-governmental organizations (NGOs), donors, and volunteers. It's more than just a platform; it's a digital bridge that connects hearts and resources, streamlining the process of giving and making a tangible impact on communities in need.",
     image:
-      "https://user-images.githubusercontent.com/94378669/271758131-1ee9196f-b5b9-42f1-91f8-e36fe46e7e02.png",
+      "https://github.com/Kapcool12/Donation_Management_System/assets/94378669/2c00b73f-5e07-4f95-a152-b568bc75de63",
     tags: [
       "HTML",
       "CSS",
@@ -207,7 +207,7 @@ export const projects = [
     description:
       "In the digital age, where trust and security are paramount in electoral processes, SecureVote stands as a groundbreaking solution that redefines democracy. SecureVote is a cutting-edge, blockchain-based voting system designed to safeguard the integrity of elections, ensure transparency, and provide every citizen with a secure and convenient means to cast their votes.",
     image:
-      "https://user-images.githubusercontent.com/94378669/271688214-7540c65c-2f72-46a2-ab67-7f2c92bd0b36.png",
+      "https://user-images.githubusercontent.com/94378669/272846645-74ce8435-c852-4fd3-aa53-e349c2606867.png",
     tags: ["React Js", "Node Js", "Solidity", "Metamask","Ganache","Truffle"],
     category: "Blockchain",
     github: "https://github.com/Kapcool12/Blockchain_voting_system",
@@ -241,7 +241,7 @@ export const projects = [
     description:
       "The Movie Recommendation System is a sophisticated software application designed to provide personalized movie recommendations to users based on their preferences and viewing history. In an era where the entertainment industry offers an overwhelming array of movie choices, this system aims to simplify the decision-making process by suggesting movies that align with a user's individual taste.",
     image:
-      "https://user-images.githubusercontent.com/94378669/271691190-6ca31679-c741-4bbe-8dbd-4279bfb6a51c.png",
+      "https://user-images.githubusercontent.com/94378669/272845731-7a521bb9-2404-4e44-aa40-ac2be9ac9149.png",
     tags: [
       "Python",
       "Jupitar",
@@ -262,7 +262,7 @@ export const projects = [
     description:
       "Its a Web based Encoder and Decoder used to Encode Message and use Private key to Decript it, It is inspired by Ceaser Cipher Aplgorithm",
     image:
-      "https://user-images.githubusercontent.com/94378669/271787400-5e416a57-5fd9-455d-bd5f-15bd5b0e41ac.png",
+      "https://user-images.githubusercontent.com/94378669/272845094-10be326c-2629-48d3-a6ac-5c05db1557fc.png",
     tags: ["HTML", "CSS", "JavaScript", "Crptography"],
     category: "web app",
     github: "https://github.com/Kapcool12/Encoder-Decoder.git",
@@ -277,7 +277,7 @@ export const projects = [
     description:
       "This is the distributed deadlock detection system developed using Python Flask and deployed on web.",
     image:
-      "https://user-images.githubusercontent.com/94378669/271840446-8a4ac287-0bb4-42c8-89c6-1093ea3eeda6.png",
+      "https://user-images.githubusercontent.com/94378669/272845505-a31c25bb-85ff-4a96-9e9f-dc53d31a8b8f.png",
     tags: ["Python", "Flask", "HTML", "CSS"],
     category: "web app",
     github: "https://github.com/Kapcool12/Deadlock-detection-distributed-Systems.git",
