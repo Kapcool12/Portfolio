@@ -19,7 +19,8 @@ const Navbar = () => {
       <NavbarContainer>
       <NavLogo to='/'>
           <a style={{ display: "flex", alignItems: "center", color: "White", marginBottom: '20;', cursor: 'pointer' }}>
-            {/*<DiCssdeck size="3rem" />*/} <Span style={{ fontFamily: 'Great Vibes, cursive', fontSize: '1.5rem', fontWeight: 'bold' }}>Kapil Yadav</Span>
+            <DiCssdeck size="2rem" /> <Span style={{ fontFamily: 'Great Vibes, cursive', fontSize: '1.5rem', fontWeight: 'bold' }}>Kapil Yadav</Span>
+
 
           </a>
         </NavLogo>
@@ -35,6 +36,7 @@ const Navbar = () => {
           {/*<NavLink href='#experience'>Experience</NavLink>*/}
           <NavLink href='#projects'>Projects</NavLink>
           <NavLink href='#education'>Education</NavLink>
+          
         </NavItems>
         <ButtonContainer>
        
@@ -74,16 +76,18 @@ const Navbar = () => {
             <MobileLink href='#skills' onClick={() => {
               setIsOpen(!isOpen)
             }}>Skills</MobileLink>
-            <MobileLink href='#experience' onClick={() => {
+            {/*<MobileLink href='#experience' onClick={() => {
               setIsOpen(!isOpen)
-            }}>Experience</MobileLink>
+            }}>Experience</MobileLink>*/}
             <MobileLink href='#projects' onClick={() => {
               setIsOpen(!isOpen)
             }}>Projects</MobileLink>
             <MobileLink href='#education' onClick={() => {
               setIsOpen(!isOpen)
             }}>Education</MobileLink>
-            <GitHubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href={Bio.github} target="_blank">Github Profile</GitHubButton>
+            
+            <GitHubButton style={{padding: '5px 10px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href={Bio.github} target="_blank">Github</GitHubButton>
+            <GitHubButton style={{padding: '5px 10px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href={Bio.linkedin} target="_blank">LinkedIn</GitHubButton>
           </MobileMenu>
         }
       </NavbarContainer>

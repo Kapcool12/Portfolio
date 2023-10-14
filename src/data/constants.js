@@ -65,12 +65,12 @@ export const skills = [
       {
         name: "Python",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+          "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png",
       },
       {
         name: "MySQL",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+          "https://th.bing.com/th/id/OIP.W7ys8_nfoE7RBuEldUNhsAHaE8?pid=ImgDet&rs=1",
       },
       {
         name: "Postgresql",
@@ -79,7 +79,7 @@ export const skills = [
       {
         name: "MongoDB",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+          "https://toppng.com/public/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png",
       },
     
     ],
