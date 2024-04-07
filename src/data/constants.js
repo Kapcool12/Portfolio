@@ -226,33 +226,57 @@ export const projects = [
         //github: "https://github.com/upasana0710",
       },
       {
-        name: "Akash Tiwari",
-        img: "https://user-images.githubusercontent.com/94378669/271788159-61706e26-7532-4960-8360-5ddaed5f41c8.png",
-        //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        //github: "https://github.com/upasana0710",
-      }
-      
-    ],
-  },
-  {
-    id: 1,
-    title: "Recommended-Movie",
-    date: "May 2023 - Aug 2023",
-    description:
-      "The Movie Recommendation System is a sophisticated software application designed to provide personalized movie recommendations to users based on their preferences and viewing history. In an era where the entertainment industry offers an overwhelming array of movie choices, this system aims to simplify the decision-making process by suggesting movies that align with a user's individual taste.",
-    image:
-      "https://user-images.githubusercontent.com/94378669/272845731-7a521bb9-2404-4e44-aa40-ac2be9ac9149.png",
-    tags: [
-      "Python",
-      "Jupitar",
-      "Machine Learning",
-      "Streamlit",
-      "Numpy-Pandas",
-      "Streamlit",
-    ],
-    category: "machine learning",
-    //github: "https://github.com/rishavchanda/Project-Management-App",
-    //webapp: "https://vexa-app.netlify.app/",
+        id: 0,
+         title: "Crowd-Fund",
+      date: "Nov 2023 - Feb 2024",
+      description:
+        "In the digital age, where trust and security are paramount in electoral processes, SecureVote stands as a groundbreaking solution that redefines democracy. SecureVote is a cutting-edge, blockchain-based voting system designed to safeguard the integrity of elections, ensure transparency, and provide every citizen with a secure and convenient means to cast their votes.",
+      image:
+        "https://private-user-images.githubusercontent.com/94378669/320271392-6b7f5acd-89e1-4b0c-97d6-498c1d021eaa.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI0ODI5NTksIm5iZiI6MTcxMjQ4MjY1OSwicGF0aCI6Ii85NDM3ODY2OS8zMjAyNzEzOTItNmI3ZjVhY2QtODllMS00YjBjLTk3ZDYtNDk4YzFkMDIxZWFhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDA3VDA5MzczOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlZjJhMTZiODg1NDg5NGFiOTA2ZmJmMTNiMzc2ZjUxYmJjMDBkZjhmMTgzYzVlOGRhYjg4OWY2YTBjY2JhMGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gIMSU7nq8BwQEx-0AjiTCkUpGI6uu2Khq-__w8z3g98",
+      tags: ["React Js", "Node Js", "Solidity", "Metamask","Ganache","Truffle"],
+      category: "Blockchain",
+      github: "https://github.com/Kapcool12/Crowdfunding_App_using_Blockchain/tree/main",
+      //webapp: "https://podstream.netlify.app/",
+      member: [
+        {
+          name: "Kapil Yadav",
+          img: "https://user-images.githubusercontent.com/94378669/271704042-69afdfb3-abdb-4da5-b6b9-4d72430107e0.png",
+          linkedin: "https://www.linkedin.com/in/kapcool05/",
+          github: "https://github.com/Kapcool12",
+        },
+        {
+          name: "Rajat Thapa",
+          img: "https://user-images.githubusercontent.com/94378669/271704833-0648f141-1346-417f-abb9-76502e7ff065.jpg",
+          linkedin: "https://www.linkedin.com/in/reyrajat/",
+        },
+        {
+          name: "Akash Tiwari",
+          img: "https://user-images.githubusercontent.com/94378669/271788159-61706e26-7532-4960-8360-5ddaed5f41c8.png",
+          //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+          //github: "https://github.com/upasana0710",
+        }
+        
+      ],
+    },
+    {
+      id: 1,
+      title: "Recommended-Movie",
+      date: "May 2023 - Aug 2023",
+      description:
+        "The Movie Recommendation System is a sophisticated software application designed to provide personalized movie recommendations to users based on their preferences and viewing history. In an era where the entertainment industry offers an overwhelming array of movie choices, this system aims to simplify the decision-making process by suggesting movies that align with a user's individual taste.",
+      image:
+        "https://user-images.githubusercontent.com/94378669/272845731-7a521bb9-2404-4e44-aa40-ac2be9ac9149.png",
+      tags: [
+        "Python",
+        "Jupitar",
+        "Machine Learning",
+        "Streamlit",
+        "Numpy-Pandas",
+        "Streamlit",
+      ],
+      category: "machine learning",
+      //github: "https://github.com/rishavchanda/Project-Management-App",
+      //webapp: "https://vexa-app.netlify.app/",
   },
   
   {
